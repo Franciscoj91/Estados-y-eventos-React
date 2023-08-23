@@ -9,3 +9,20 @@ Registro
 SociialButton
 Formulario
 Alert
+
+
+//trabajando con git
+
+Hacer un fork del repositorio original
+
+Hacer los cambios 
+
+Subir cambios al repositorio
+Solicitar un Pull Request al due;o del repositorio original
+
+//otra Forma
+
+Crear una rama
+Hacer los  cambios, posicionados en esa rama
+Subir la rama al repositorio
+solicitar el pull request
