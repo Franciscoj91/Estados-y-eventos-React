@@ -1,5 +1,5 @@
 
-
+import Contador from './components/Contador'
 import './App.css'
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      
+      <Contador></Contador>
     </>
   )
 }
